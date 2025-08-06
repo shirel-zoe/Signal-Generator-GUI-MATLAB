@@ -1,5 +1,5 @@
 %% 
-% he base plate of  the app:
+% the base plate of  the app:
 
 % mini project:GUI = Graphical User Interface
 % A small app that creates signal graphs with a push of a button.
